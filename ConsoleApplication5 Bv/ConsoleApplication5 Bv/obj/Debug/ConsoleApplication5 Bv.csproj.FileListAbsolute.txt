@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Downloads\Nueva carpeta\ConsoleApplication5 Bv\ConsoleApplication5 Bv\bin\Debug\ConsoleApplication5 Bv.exe.config
-C:\Users\alumno.ET37\Downloads\Nueva carpeta\ConsoleApplication5 Bv\ConsoleApplication5 Bv\bin\Debug\ConsoleApplication5 Bv.exe
-C:\Users\alumno.ET37\Downloads\Nueva carpeta\ConsoleApplication5 Bv\ConsoleApplication5 Bv\bin\Debug\ConsoleApplication5 Bv.pdb
-C:\Users\alumno.ET37\Downloads\Nueva carpeta\ConsoleApplication5 Bv\ConsoleApplication5 Bv\obj\Debug\ConsoleApplication5 Bv.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Downloads\Nueva carpeta\ConsoleApplication5 Bv\ConsoleApplication5 Bv\obj\Debug\ConsoleApplication5 Bv.exe
-C:\Users\alumno.ET37\Downloads\Nueva carpeta\ConsoleApplication5 Bv\ConsoleApplication5 Bv\obj\Debug\ConsoleApplication5 Bv.pdb
