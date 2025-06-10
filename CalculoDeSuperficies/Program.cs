@@ -30,7 +30,14 @@ namespace CalculoDeSuperficies
         }
         static void rectangulo()
         {
-
+            int b, h, superficie;
+            Console.WriteLine("¿Cuanto mide de ancho?");
+            b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("¿Cuanto mide de alto?");
+            h = Convert.ToInt32(Console.ReadLine());
+            superficie = (b*h);
+            Console.WriteLine("Su superficie total es de: " + superficie);
+            Console.ReadKey();
         }
         static void Main(string[] args)
         {
