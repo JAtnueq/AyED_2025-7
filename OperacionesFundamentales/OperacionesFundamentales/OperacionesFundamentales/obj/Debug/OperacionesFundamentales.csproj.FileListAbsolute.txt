@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\OperacionesFundamentales\OperacionesFundamentales\OperacionesFundamentales\bin\Debug\OperacionesFundamentales.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\OperacionesFundamentales\OperacionesFundamentales\OperacionesFundamentales\bin\Debug\OperacionesFundamentales.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\OperacionesFundamentales\OperacionesFundamentales\OperacionesFundamentales\bin\Debug\OperacionesFundamentales.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\OperacionesFundamentales\OperacionesFundamentales\OperacionesFundamentales\obj\Debug\OperacionesFundamentales.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\OperacionesFundamentales\OperacionesFundamentales\OperacionesFundamentales\obj\Debug\OperacionesFundamentales.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\OperacionesFundamentales\OperacionesFundamentales\OperacionesFundamentales\obj\Debug\OperacionesFundamentales.pdb
