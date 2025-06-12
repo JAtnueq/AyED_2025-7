@@ -60,7 +60,7 @@ namespace CalculoDeSuperficies
                     rectangulo();
                     break;
                 default:
-                    Console.WriteLine("Escoja alguna de las oopciones que hay :U");
+                    Console.WriteLine("Escoja alguna de las opciones que hay :U");
                     break;
             }
         }
