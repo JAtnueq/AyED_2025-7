@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,29 +9,30 @@ namespace calculo_area_clases
     /*3. En el ejercicio planteado debe realizar el cálculo de un área de un triángulo debe
     crear un método que reciba como parámetro la base del triángulo y la altura del
     mismo y devuelva el valor resultado a una etiqueta o por medio de un mensaje
-    emergente.*/
+    emergente.
     class Program
     {
-        public void proceso(int x, int y)
+        static void Main(string[] args)
+        {
+            int b, h;
+            Console.WriteLine("ingresar base del triangulo");
+            b = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("ingresar altura del triangulo");
+            h = Convert.ToInt16(Console.ReadLine());
+            proceso(b, h);
+            Console.ReadKey();
+        }
+        static void proceso(int x, int y)
         {
             int r = 0;
             r = (x * y) / 2;
+            Console.WriteLine("El resultado es: " + r);
         }
-        static void Main(string[] args)
-        {
-            int b, h, resultado;
-            Console.WriteLine("ingresar base del triangulo");
-            b = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("ingresar altura del triangulo");
-            h = Convert.ToInt32(Console.ReadLine());
-            resultado = proceso(b, h);
-            Console.ReadKey();
-        }
-        
-        
     }
-    
-}
+
+}*/
+
+
 /*Variante 2: Debe realizar el mismo cálculo pero con un método que no devuelva
     valores solo que escriba en una variable del segmento de código implementado y
     luego volcar esta variable a la etiqueta o mensaje emergente.
