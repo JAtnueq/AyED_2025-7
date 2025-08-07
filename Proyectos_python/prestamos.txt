@@ -1,0 +1,6 @@
+quenta|200000|200000|0
+quenta|20000|20000|0
+diaz|falta|falta|0
+quenta|P|P|0
+diaz|A|A|0
+quenta|p|p|0
