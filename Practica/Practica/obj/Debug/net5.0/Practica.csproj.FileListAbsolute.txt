@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Practica\Practica\bin\Debug\net5.0\Practica.exe
+C:\Users\Usuario\source\repos\Practica\Practica\bin\Debug\net5.0\Practica.deps.json
+C:\Users\Usuario\source\repos\Practica\Practica\bin\Debug\net5.0\Practica.runtimeconfig.json
+C:\Users\Usuario\source\repos\Practica\Practica\bin\Debug\net5.0\Practica.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Practica\Practica\bin\Debug\net5.0\Practica.dll
+C:\Users\Usuario\source\repos\Practica\Practica\bin\Debug\net5.0\Practica.pdb
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\Practica.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\Practica.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\Practica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\Practica.dll
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\refint\Practica.dll
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\Practica.pdb
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\Practica.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Practica\Practica\obj\Debug\net5.0\ref\Practica.dll
