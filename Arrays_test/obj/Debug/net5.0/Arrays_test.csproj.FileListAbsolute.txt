@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\bin\Debug\net5.0\Arrays_test.exe
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\bin\Debug\net5.0\Arrays_test.deps.json
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\bin\Debug\net5.0\Arrays_test.runtimeconfig.json
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\bin\Debug\net5.0\Arrays_test.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\bin\Debug\net5.0\Arrays_test.dll
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\bin\Debug\net5.0\Arrays_test.pdb
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\Arrays_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\Arrays_test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\Arrays_test.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\Arrays_test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\Arrays_test.dll
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\refint\Arrays_test.dll
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\Arrays_test.pdb
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\Arrays_test.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\Arrays_test\obj\Debug\net5.0\ref\Arrays_test.dll
