@@ -57,3 +57,37 @@ namespace Arrays_4
         }
     }
 }
+/*using System;
+using System.Collections.Generic; // Necesario para usar List<int>
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Arrays_4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*3. Se ingresan 10 números. La computadora los muestra en 
+            el orden inverso del que tenían al ser ingresados.*/
+
+            int capacidad = 5;
+            int[] numeros = new int[capacidad];
+            
+            for (int i = 0; i < capacidad; i++)
+            {
+                Console.WriteLine("Introduce el número de orden {0}:", i + 1);
+                numeros[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            Console.Write("\n-----Orden inverso de los indices-----");
+            for (int i = capacidad-1; i >= 0; i--)
+            {
+                Console.Write("\nCelda {0}", i +1+ " = ");
+                Console.Write(numeros[i]);
+            }
+            Console.ReadKey();
+        }
+    }
+}
+*/
