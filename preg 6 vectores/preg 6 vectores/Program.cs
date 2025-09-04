@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,7 +17,7 @@ namespace Arrays_4
             int[] numero = new int[capacidad];
             for (int i = 0; i < capacidad; i++)
             {
-                Console.WriteLine("Introduce el dato numero {0}", i + 1);
+                Console.WriteLine("Introduce el dato numero {0}", i);
                 numero[i] = Convert.ToInt32(Console.ReadLine());
             }
             int suma = 0;
@@ -29,7 +29,7 @@ namespace Arrays_4
                 {
                     if (numero[i] % 2 == 0)
                     {
-                        Console.WriteLine("Posición {0}: {1}", i + 1, numero[i]);
+                        Console.WriteLine("Posición {0}: {1}", i, numero[i]);
                         suma += numero[i];
                     }
                 }
