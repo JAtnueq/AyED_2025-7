@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -37,7 +37,16 @@ namespace preg_15_vectores
                     guardar_pos = i;
                 }
             }
+            Console.WriteLine("----- Mayor valor del vector -----");
+            Console.Write("Elemento {0}°", guardar_pos); Console.Write(" = " + mayor);
             Console.ReadKey();
+            /*
+         ------- Como declarar ArraysList´s----------
+             * ArrayList datos = new ArrayList()
+         ------- Añadir elementos a un array list ------
+             *datos = add(8)
+           *Si queremos que el usuario añada sus datos
+             *datos = add(n)
+             *n= 8 //n es declaradado anteriormente por el usuario     
+             */
         }
-    }
-}
