@@ -1,0 +1,6 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\preg 16 vectores\preg 16 vectores\bin\Debug\preg 16 vectores.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\preg 16 vectores\preg 16 vectores\bin\Debug\preg 16 vectores.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\preg 16 vectores\preg 16 vectores\bin\Debug\preg 16 vectores.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\preg 16 vectores\preg 16 vectores\obj\Debug\preg 16 vectores.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\preg 16 vectores\preg 16 vectores\obj\Debug\preg 16 vectores.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\preg 16 vectores\preg 16 vectores\obj\Debug\preg 16 vectores.pdb
