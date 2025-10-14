@@ -22,24 +22,21 @@ namespace preg_20_matrices
                     }
                 }
             }
-            Console.WriteLine("Suma de la traza de la matriz: " + suma);
+            Console.WriteLine("Suma de la diagonal principal de la matriz: " + suma);
         }
-        public void diagonal_secundaria(int[,] matriz, int n)
+        public void diagonal_secundaria(ref int[,] matriz,ref int n)
         {
             //Birdbrain Y Liar Dancer son vida
             int suma = 0;
-            for (int x = n; x >= 0; x--)
+            int x = (n - 1);
+            int y = 0;
+            for (int i = (n-1); i >= 0; i--)
             {
-                for (int y = n; y <= 0; y--)
-                {
-                    Console.WriteLine("Introduce el elemento numero [{0},{1}]", x, y);
-                    matriz[x, y] = Convert.ToInt32(Console.ReadLine());
-                    if (x == y)
-                    {
-                        suma += matriz[x, y];
-                    }
-                }
+                suma += matriz[x, y];
+                x -= 1;
+                y += 1;
             }
+            Console.WriteLine("Suma de la diagonal secundaria de la matriz: " + suma);
         }
     }
     class Program
@@ -68,6 +65,9 @@ namespace preg_20_matrices
             }
             funciones f = new funciones();
             f.traza_matriz(ref matriz, ref n);
+            Console.WriteLine("--------------------------------------");
+            f.diagonal_secundaria(ref matriz, ref n);
+            Console.ReadLine();
         }
     }
 }
