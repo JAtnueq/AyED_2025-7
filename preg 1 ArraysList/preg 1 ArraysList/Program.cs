@@ -5,44 +5,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace preg_4_ArrayList
+namespace preg_3_ArrayList
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /*Escriba un programa Csharp para recuperar un elemento (en un índice
-              específico) de una lista de arrays dada.*/
+            /*Escribe un programa Csharp para iterar por todos los elementos de una
+              lista de arrays.*/
             ArrayList miLista = new ArrayList();
-            //------------Contenido del Array--------------
-            miLista.Add("Cobre");
-            miLista.Add("Oro");
-            miLista.Add("Diamante");
-            miLista.Add("Amatista");
-            miLista.Add("Jade");
-            miLista.Add("Rubi");
-            miLista.Add("Hierro");
-            miLista.Add("Tito Calderon");
-            //- 0-6 elementos -----------------------------
-            Console.WriteLine("Contenido actual del Array:");
-            for (int i = 0; i < miLista.Count; i++)
-            {
-                Console.Write("\nElemento [{0}] : ", i); Console.WriteLine(miLista[i]); 
-            }
-                
-            Console.WriteLine("\nPresiona enter para continuar...");
-            Console.ReadLine();
-            Console.Clear();
-
-            int x;
-
-            Console.WriteLine("Que elemento quiere recuperar");
-            x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(miLista[x]);
-            Console.WriteLine("¡Recuperado!");
-            Console.ReadLine();
-
+            miLista.Add("Teto");
+            miLista.Add("Azul");
+            miLista.Add("Amarillo");
+            miLista.Add("Hola mundo");
+            miLista.Add("juas juas");
+            miLista.Add(":Vvvv");
+            Console.WriteLine("Contenido actual:");
+            foreach (string frase in miLista)
+                Console.WriteLine(frase);
             Console.ReadKey();
+            /*Esto fue segun lo que entendi XDD*/
+            // --- Actualizacion ---
+            // Me di cuenta que la consigna anterior (1) y esta (2) son lo mismo
+            // nada mas es para practicar los bucles para imprimir los datos
         }
     }
 }
