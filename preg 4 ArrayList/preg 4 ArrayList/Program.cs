@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections;
 using System.Linq;
@@ -14,21 +14,32 @@ namespace preg_4_ArrayList
             /*Escriba un programa Csharp para recuperar un elemento (en un índice
               específico) de una lista de arrays dada.*/
             ArrayList miLista = new ArrayList();
-
-            miLista.Add("Hola mundo");
-            miLista.Add("juas juas");
-            miLista.Add(":Vvvv");
-
+            //------------Contenido del Array--------------
+            miLista.Add("Cobre");
+            miLista.Add("Oro");
+            miLista.Add("Diamante");
+            miLista.Add("Amatista");
+            miLista.Add("Jade");
+            miLista.Add("Rubi");
+            miLista.Add("Hierro");
+            miLista.Add("Tito Calderon");
+            //- 0-6 elementos -----------------------------
             Console.WriteLine("Contenido actual del Array:");
             for (int i = 0; i < miLista.Count; i++)
             {
-                Console.WriteLine(miLista());
+                Console.Write("\nElemento [{0}] : ", i); Console.WriteLine(miLista[i]); 
             }
-
-            miLista.RemoveAt(1);
-            Console.WriteLine("Oh no, se perdio el contenido del indice 1 (Enter = continuar)");
+                
+            Console.WriteLine("\nPresiona enter para continuar...");
             Console.ReadLine();
-            Console.WriteLine("Recuperando...");
+            Console.Clear();
+
+            int x;
+
+            Console.WriteLine("Que elemento quiere recuperar");
+            x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(miLista[x]);
+            Console.WriteLine("¡Recuperado!");
             Console.ReadLine();
 
             Console.ReadKey();
