@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using System.Collections;
+using System.Collections; // Sin esta linea, el Visual Studio no sabe que es un ArrayList 
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,3 +31,4 @@ namespace preg_3_ArrayList
         }
     }
 }
+
