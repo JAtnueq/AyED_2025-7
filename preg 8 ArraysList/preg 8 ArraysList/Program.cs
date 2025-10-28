@@ -28,7 +28,7 @@ namespace preg_4_ArrayList
             miLista.Add("Clave");
             miLista.Add("Piedru");
             miLista.Add("Cerru");
-            //- 7 elementos -----------------------------
+            //------------------------------
             // (Tambien se cuenta el "0")
             Console.WriteLine("Contenido actual del Array:");
             Console.WriteLine("--------------------------------------");
@@ -57,5 +57,6 @@ namespace preg_4_ArrayList
 
         }
     }
+
 
 }
