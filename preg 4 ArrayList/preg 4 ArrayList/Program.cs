@@ -23,7 +23,8 @@ namespace preg_4_ArrayList
             miLista.Add("Rubi");
             miLista.Add("Hierro");
             miLista.Add("Tito Calderon");
-            //- 0-6 elementos -----------------------------
+            //-8 elementos -----------------------------
+            //-(Se incluye 0)-----------------------------
             Console.WriteLine("Contenido actual del Array:");
             for (int i = 0; i < miLista.Count; i++)
             {
@@ -46,3 +47,4 @@ namespace preg_4_ArrayList
         }
     }
 }
+
