@@ -18,7 +18,6 @@ namespace preg_4_ArrayList
             miLista.Add("Tung");
             miLista.Add("Tung");
             miLista.Add("Sahur");
-            //- 7 elementos -----------------------------
             // (Tambien se cuenta el "0")
             Console.WriteLine("Contenido actual del Array [miLista]:");
             Console.WriteLine("--------------------------------------");
@@ -56,5 +55,6 @@ namespace preg_4_ArrayList
 
         }
     }
+
 
 }
