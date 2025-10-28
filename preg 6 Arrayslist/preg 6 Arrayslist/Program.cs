@@ -22,7 +22,7 @@ namespace preg_4_ArrayList
             miLista.Add("Italiano");
             miLista.Add("EL pan de ayer:");
             miLista.Add("Propiedades");
-            //- 7 elementos -----------------------------
+            //------------------------------
             // (Tambien se cuenta el "0")
             Console.WriteLine("Contenido actual del Array:");
             Console.WriteLine("--------------------------------------");
@@ -52,5 +52,6 @@ namespace preg_4_ArrayList
 
         }
     }
+
 
 }
