@@ -41,7 +41,6 @@ namespace preg_4_ArrayList
             for (int i = 0; i < miLista.Count; i++)
             {
                 miListaCopia.Add(miLista[i]);
-                miListaCopia.Sort();
             }
             //---------------------------------------
             Console.WriteLine("\nComparando [miLista] y [miListaCopia]");
@@ -65,3 +64,4 @@ namespace preg_4_ArrayList
 
 
 }
+
