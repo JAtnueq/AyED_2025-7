@@ -35,7 +35,7 @@ namespace preg_4_ArrayList
             //---------------------------------------
 
             Console.WriteLine("El nuevo Array se llama [miListaCopia]");
-            Console.WriteLine("(a diferencia de [miLista], [miListaCopia] esta ordenada)");
+            Console.WriteLine("(a diferencia de [miLista], [miListaCopia] es diferente)");
             ArrayList miListaCopia = new ArrayList();
             //-------- Creacion de la copia ---------
             for (int i = 0; i < miLista.Count; i++)
@@ -61,6 +61,7 @@ namespace preg_4_ArrayList
 
         }
     }
+
 
 
 }
